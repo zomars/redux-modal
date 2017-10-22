@@ -27,7 +27,7 @@
   },
   "homepage": "https://github.com/yesmeck/redux-modal#readme",
   "devDependencies": {
-    "@types/react": "^16.0.4",
+    "@types/react": "^16.0.17",
     "babel-cli": "^6.4.5",
     "babel-core": "^6.3.26",
     "babel-loader": "^7.1.2",
